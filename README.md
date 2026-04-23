@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohit Kumar
 
-<!--
-**cyber-rohit-91/cyber-rohit-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 CEH Student | Cybersecurity Enthusiast  
+💻 Skills: Networking, Linux, Web Security  
+🛠 Tools: Nmap, Burp Suite, Wireshark  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Vulnerability Scanner (Python)
+- Port Scanner
+- OWASP Top 10 Labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Ethical Hacking
+- Penetration Testing
+- 
+
+## 📫 Contact
+- Email: rohitallwork@gmail.com
