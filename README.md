@@ -9,6 +9,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Python+Developer;Web+Application+Security;Linux+Enthusiast;Always+Learning+New+Things"/>
 
 </div>
+![Snake](https://raw.githubusercontent.com/technologyhell/technologyhell/output/github-snake-dark.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=technologyhell&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=technologyhell&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=technologyhell&theme=tokyo-night"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Python+Developer;Always+Learning"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=TechnologyHell"/>
 
 ---
 
