@@ -1,4 +1,5 @@
-> 𝐑𝟶𝖍ί𝚃 𝐆au†a𝙼:
+
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,25:1e293b,50:2563eb,75:06b6d4,100:22d3ee&text=ROHIT%20KUMAR&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Certified%20Ethical%20Hacker%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58"/>
@@ -109,10 +110,7 @@
 
 <p align="center">
 
-![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=f
-
-> 𝐑𝟶𝖍ί𝚃 𝐆au†a𝙼:
-or-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
 ![DNS](https://img.shields.io/badge/DNS-0A66C2?style=for-the-badge)
 ![HTTP](https://img.shields.io/badge/HTTP-000000?style=for-the-badge)
 ![HTTPS](https://img.shields.io/badge/HTTPS-009639?style=for-the-badge)
@@ -208,10 +206,7 @@ or-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-00599C?style=for-the-badge)
-![SQLMap](https://img.shields.io/badge/SQLMap-C
-
-> 𝐑𝟶𝖍ί𝚃 𝐆au†a𝙼:
-C0000?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-006400?style=for-the-badge)
 ![Gobuster](https://img.shields.io/badge/Gobuster-4CAF50?style=for-the-badge)
@@ -296,12 +291,7 @@ C0000?style=for-the-badge)
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-stats.shion.dev/api?username=cyber-rohit-91&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=tru
-
-> 𝐑𝟶𝖍ί𝚃 𝐆au†a𝙼:
-e"
-    alt="GitHub Stats"
-  />
+    src="https://github-readme-stats.shion.dev/api?username=cyber-rohit-91&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"alt="GitHub Stats"/>
 </p>
 
 <p align="center">
